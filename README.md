@@ -11,7 +11,7 @@ KahootPY: https://github.com/theusaf/KahootPY
 Tkinter: https://docs.python.org/3/library/tkinter.html
 
 
-Please use this responsably! This is meant for fun purposes but if it causes harm in any way, shape, or form on another person, please do not use this. 
+Please use this responsibly! This is meant for fun purposes but if it causes harm in any way, shape, or form on another person, please do not use this. 
 
 
 Have fun!
